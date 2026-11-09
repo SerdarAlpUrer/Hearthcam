@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HearthCam DMS</string>
+    <string name="title_activity_main">HearthCam DMS</string>
+    <string name="package_name">com.serdarurer.hearthcam</string>
+    <string name="custom_url_scheme">com.serdarurer.hearthcam</string>
+</resources>

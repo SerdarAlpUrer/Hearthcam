@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Android Gradle build & cache
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+*.iml
+
+# Legacy root APKs
+HearthCam-DMS-v1.0.apk
+HearthCam-DMS-v1.1-PRO.apk
+public/hearthcam.apk
+android/app/src/main/assets/public/*.apk
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
