@@ -81,4 +81,4 @@ Sunucu başladığında tarayıcınızda `http://localhost:3000` adresine gidin 
 
 ## 📚 Akademik Referans
 
-* Ürer, S. A., & Yıldız, M. (2014). *"Video Kamera ile Nabız Ölçümünde Yeni Bir Yaklaşım"*. TIPTEKNO 2014 - Tıp Teknolojileri Ulusal Kongresi Bildirileri, Erciyes Üniversitesi, Kayseri.
+* Ürer, S. A., & Yıldız, M. (2014). *"Video Kamera ile Nabız Ölçümünde Yeni Bir Yaklaşım"*. TIPTEKNO 2014 - Tıp Teknolojileri Ulusal Kongresi Bildirileri
